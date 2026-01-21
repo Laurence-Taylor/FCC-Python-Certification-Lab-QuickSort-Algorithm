@@ -6,7 +6,8 @@ Objective: Fulfill the user stories below and get all the tests to pass to compl
 
     You should define a function named quick_sort to implement the quicksort algorithm.
 
-    The quick_sort function should take a list of integers as input and return a new list of these integers in sorted order from least to greatest.
+    The quick_sort function should take a list of integers as input and return a new list of these
+    integers in sorted order from least to greatest.
 
     To implement the algorithm, you should:
         Choose a pivot value from the elements of the input list (use the first or the last element
