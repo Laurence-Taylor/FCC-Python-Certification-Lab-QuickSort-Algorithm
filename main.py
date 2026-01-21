@@ -1,5 +1,5 @@
 def quick_sort(int_list):
-    # Stop Sorting
+    # Boundary cases
     if int_list == []:
         return []
     if len(int_list) == 1:
